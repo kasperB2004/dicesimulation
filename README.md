@@ -20,7 +20,7 @@ Dice Simulation is a simple Windows application that simulates the rolling of a 
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/kasperB2004/dice-simulation.git
+git clone https://github.com/kasperB2004/dicesimulation.git
 ```
 2. Open the project in Visual Studio or your preferred C# development environment.
 
